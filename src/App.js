@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         </a>
         <p>Contibution by Deepak</p>
         <p>Contribution by Surbhi</p>
+        <Header/>
       </header>
     </div>
   );
