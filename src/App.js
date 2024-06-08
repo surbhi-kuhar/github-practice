@@ -5,9 +5,7 @@ import Header from "./components/Header";
 function App() {
   return (
     <div className="App">
-      <p>Contibution by Deepak</p>
-      <p>Contribution by Surbhi</p>
-      <Header />
+       delete evry thing and see the response
     </div>
   );
 }
